@@ -74,7 +74,7 @@ Sponsors API is a [GitHub Sponsors](https://github.com/sponsors) server for disp
 
 ## Deploying
 
-Deploy to host which which supports HTTP, for example using [Apex Up](https://github.com/apex/up) or Heroku. The following environment variables are supported:
+Deploy to host which supports HTTP, for example using [Apex Up](https://github.com/apex/up) or Heroku. The following environment variables are supported:
 
 - `GITHUB_TOKEN` the GitHub API token (no scopes are required)
 - `PORT` the server port (defaults to 3000)
