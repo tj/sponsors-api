@@ -71,7 +71,6 @@ Sponsors API is a [GitHub Sponsors](https://github.com/sponsors) server for disp
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/66" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/66)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/67" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/67)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/68" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/68)
-[<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/69" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/69)
 
 ## Deploying
 
