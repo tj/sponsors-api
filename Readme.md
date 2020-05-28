@@ -1,6 +1,6 @@
 # Sponsors API
 
-Sponsors API is a [GitHub Sponsors](https://github.com/sponsors) server for displaying sponsor avatars in your project Readme. It looks like this, you can list as many as you want.
+Sponsors API is a [GitHub Sponsors](https://github.com/sponsors) server for displaying sponsor avatars in your project Readme. It looks like this:
 
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/0" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/0)
 [<img src="https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/avatar/1" width="35">](https://sponsors-api-u2fftug6kq-uc.a.run.app/sponsor/profile/1)
