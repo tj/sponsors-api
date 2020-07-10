@@ -99,7 +99,8 @@ func (s *Server) ServeHTTP(w http.ResponseWriter, r *http.Request) {
 // serveMarkdown serves a list of markdown links which you can copy/paste into your Readme.
 func (s *Server) serveMarkdown(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "text/markdown")
-	for i := 0; i < 100; i++ {
+	sponsors := s.cache
+	for i := 0; i < len(sponsors); i++ {
 		fmt.Fprintf(w, `[<img src="%s/sponsor/avatar/%d" width="35">](%s/sponsor/profile/%d)`, s.URL, i, s.URL, i)
 		fmt.Fprintf(w, "\n")
 	}
